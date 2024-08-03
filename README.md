@@ -1,6 +1,6 @@
 # Data-analyst-interview-tools
 materials for interview 
----------------------------------------------------
+
 Тренажери для практичних завдань
 ---------------------------------------------------
 1. sql-academy -->> https://sql-academy.org/ru/sandbox
