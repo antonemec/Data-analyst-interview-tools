@@ -17,6 +17,7 @@
 | [questions/05-logic-and-fermi.md](questions/05-logic-and-fermi.md) | Логічні задачі та оцінки Фермі |
 | [questions/06-behavioral.md](questions/06-behavioral.md) | Поведінкові питання, STAR, питання до інтерв'юера |
 | [cv-and-portfolio-checklist.md](cv-and-portfolio-checklist.md) | Резюме, GitHub-портфоліо, тестове завдання |
+| [job-market-map.md](job-market-map.md) | Мапа вимог вакансій України → де це тренувати; рівні Junior/Middle/Senior; орієнтир із зарплат DOU |
 | [resources.md](resources.md) | Тренажери, курси, інструменти візуалізації |
 | [legacy-original.md](legacy-original.md) | Перша версія матеріалів (збережена повністю) |
 
@@ -30,6 +31,9 @@
 ## Рівні / Levels
 
 - **Junior:** SQL-основи, базова статистика, уважність до даних.
+
+> Детальна мапа «рівень → файли → задачі тренажера» — у [job-market-map.md](job-market-map.md).
+
 - **Middle:** віконні функції, A/B-тести, метрики продукту, самостійний аналіз.
 - **Senior:** постановка задач, оптимізація, вплив на рішення, наставництво.
 
